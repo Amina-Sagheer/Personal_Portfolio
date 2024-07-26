@@ -12,13 +12,14 @@ const inter = Inter({
 export const metadata = {
   title: {
     template:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS | %s | CodeBucks",
+      "Amina Sagheer Portfolio | %s | CodeBucks",
     default:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS by CodeBucks",
+      "Amina Sagheer Portfolio - Created with Next.js, Three.js, and Tailwind CSS",
   },
   description:
-    "A unique creative portfolio designed by CodeBucks with cutting-edge technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of modern web development firsthand. Checkout CodeBucks on youtube.",
+    "A unique creative portfolio designed by Amina Sagheer, showcasing expertise in modern web technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of cutting-edge web development.",
 };
+
 
 export default function RootLayout({ children }) {
   return (
